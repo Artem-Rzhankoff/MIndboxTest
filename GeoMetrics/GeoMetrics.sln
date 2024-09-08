@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoMetrics.Core", "GeoMetrics.Core\GeoMetrics.Core.csproj", "{0D4FA5ED-6882-484D-B53D-D5A395E5099D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoMetrics.Test.Unit", "GeoMetrics.Test.Unit\GeoMetrics.Test.Unit.csproj", "{D6B017B5-C744-4893-AC42-9F624F792CBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D4FA5ED-6882-484D-B53D-D5A395E5099D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D4FA5ED-6882-484D-B53D-D5A395E5099D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D4FA5ED-6882-484D-B53D-D5A395E5099D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D4FA5ED-6882-484D-B53D-D5A395E5099D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6B017B5-C744-4893-AC42-9F624F792CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B017B5-C744-4893-AC42-9F624F792CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B017B5-C744-4893-AC42-9F624F792CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B017B5-C744-4893-AC42-9F624F792CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
